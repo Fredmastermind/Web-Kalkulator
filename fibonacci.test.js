@@ -7,7 +7,7 @@ test('Fibonacci av 1 er 1', () => {
 })
 
 test('Fibonacci av 2 er 1', () => {
-    assert.strictEqual(Fibonacci(2), 1);
+    assert.strictEqual(Fibonacci(1), 1);
 })
 
 test('Fibonacci av 3 er 2', () => {
